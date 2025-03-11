@@ -89,10 +89,10 @@ Este proyecto está bajo la MIT License - Puedes usarlo libremente.
 
 💻 Autor
 
-Tu Nombre
+Jorge Gonzalez
 
-GitHub: @tu-usuario
+GitHub: @yorsdev
 
-LinkedIn: Tu Perfil
+LinkedIn: https://www.linkedin.com/in/yorsdev/
 
 ¡Disfruta tu aplicación del clima! ☀️🌧️❄️
